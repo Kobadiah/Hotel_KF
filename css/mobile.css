@@ -1,4 +1,6 @@
-
+#navbar{
+	position: relative;
+}
 
 #navbar .logo{
 	float: none;
