@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-#navbar{
-	position: relative;
-}
-
-=======
 #navbar {
-	position: relative;
+	position: absolute;
 }
->>>>>>> 17e986f9dc36abb1c0ee91bdb6f41f76129fd6ed
 #navbar .logo{
 	float: none;
 	text-align: center;
