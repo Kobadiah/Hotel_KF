@@ -1,6 +1,7 @@
-#navbar {
-	position: absolute;
+#navbar{
+	position: relative;
 }
+
 #navbar .logo{
 	float: none;
 	text-align: center;

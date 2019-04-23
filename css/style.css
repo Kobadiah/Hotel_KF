@@ -108,14 +108,18 @@ a{
 
 
 /*Navagation Bar*/
- 
+ @media (min-width: 769){
+ 	#navbar{
+ 		position: fixed;
+ 	}
+ }
 #navbar{
 	background-color: #383838;
 	color: #f59f61;
 	overflow: auto;
 	list-style: none;
 	width: 100%;
-	position: fixed;
+	
 
 }
 #navbar h1{
