@@ -114,8 +114,8 @@ a{
 	color: #f59f61;
 	overflow: auto;
 	list-style: none;
-	/*width: 100%;
-	position: fixed;*/
+	width: 100%;
+	position: fixed;
 
 }
 #navbar h1{
